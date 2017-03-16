@@ -6,7 +6,7 @@
 
     "build": {
         "template": "app",
-        "icon": "D:/ownCloud/PHPQt5/QtProjects/PQStudio/PQStudio.ico",
+        "icon": "Y:/PHPQt5/PQStudio-src/PQStudio.ico",
         "save_php7ts_md5": true,
         "save_ini_md5": false,
         "qmakelf": ""
@@ -98,6 +98,7 @@
         "widgets:QListWidgetItem",
         "widgets:QTextEdit",
         "widgets:QGroupBox",
+        "widgets:QDesktopWidget",
         "network:QAbstractSocket",
         "network:QLocalSocket",
         "plastiq:PQEventFilter"
