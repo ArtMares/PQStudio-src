@@ -48,6 +48,7 @@
         "core:QParallelAnimationGroup",
         "core:QSysInfo",
         "core:QSize",
+        "core:QRect",
         "gui:QGuiApplication",
         "gui:QPaintDevice",
         "gui:QIcon",
