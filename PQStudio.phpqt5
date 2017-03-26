@@ -49,6 +49,7 @@
         "core:QSysInfo",
         "core:QSize",
         "core:QRect",
+        "core:QLocale",
         "gui:QGuiApplication",
         "gui:QPaintDevice",
         "gui:QIcon",
