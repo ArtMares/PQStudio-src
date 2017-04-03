@@ -6,7 +6,7 @@
 
     "build": {
         "template": "app",
-        "icon": "Y:/PHPQt5/PQStudio-src/PQStudio.ico",
+        "icon": "D:/PhpStormProjects/PQStudio-src/PQStudio.ico",
         "save_php7ts_md5": true,
         "save_ini_md5": false,
         "qmakelf": ""
@@ -31,6 +31,7 @@
         "core:QFileDevice",
         "core:QDir",
         "core:QFile",
+        "core:QFileInfo",
         "core:QStandardPaths",
         "core:QSettings",
         "core:QVariant",
