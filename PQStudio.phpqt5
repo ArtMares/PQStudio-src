@@ -50,6 +50,8 @@
         "core:QSize",
         "core:QRect",
         "core:QLocale",
+        "core:QTime",
+        "core:QRegExp",
         "gui:QGuiApplication",
         "gui:QPaintDevice",
         "gui:QIcon",
@@ -66,6 +68,7 @@
         "gui:QPixmap",
         "gui:QCursor",
         "gui:QDesktopServices",
+        "gui:QregExpValidator",
         "widgets:QFileDialog",
         "widgets:QAbstractButton",
         "widgets:QAction",
@@ -103,6 +106,9 @@
         "widgets:QDesktopWidget",
         "network:QAbstractSocket",
         "network:QLocalSocket",
+        "network:QNetworkAccessManager",
+        "network:QNetworkRequest",
+        "network:QNetworkReply",
         "plastiq:PQEventFilter"
     ]
 }
