@@ -7,8 +7,8 @@
  */
 
 return [
-    'applicationName' => 'PQStudio',
-    'applicationVersion' => '0.1',
-    'organizationName' => 'PHPQt5 Team',
-    'organizationDomain' => 'phpqt.ru'
+    'applicationName'       => 'PQStudio',
+    'applicationVersion'    => '0.1',
+    'organizationName'      => 'PHPQt5 Team',
+    'organizationDomain'    => 'phpqt.ru'
 ];
